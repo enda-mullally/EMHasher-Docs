@@ -8,7 +8,7 @@
   Quickly calculate MD5 / SHA-256 checksums in Windows 11
 </p>
 <p align="center">
-  <a href="https://www.microsoft.com/store/apps/9NZZHH7X25CG" target="_blank">
+  <a href="https://www.microsoft.com/store/r/9NZZHH7X25CG" target="_blank">
     <img src="images/StoreBadge.png" width="200" alt="Store link" />
   </a>
 </p>
