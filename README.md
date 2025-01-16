@@ -8,7 +8,7 @@
   Quickly calculate MD5 / SHA-256 checksums in Windows 11
 </p>
 <p align="center">
-  <a href="https://about:blank" target="_blank">
+  <a href="https://www.microsoft.com/store/apps/9NZZHH7X25CG" target="_blank">
     <img src="images/StoreBadge.png" width="200" alt="Store link" />
   </a>
 </p>
@@ -16,3 +16,6 @@
 ### Overview
 
 Finally, a modern hash-generating application built from the ground up for Windows 11. Quickly and easily calculate file hashes directly in Windows Explorer or on your Desktop. Choose your favourite hashing algorithms, including MD5 and SHA-256, with more coming soon.
+
+### App in testing. Coming soon!
+
