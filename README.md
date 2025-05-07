@@ -15,7 +15,7 @@
 
 ### Overview
 
-Finally, a modern hash-generating application built from the ground up for Windows 11. Quickly and easily calculate file hashes directly in Windows Explorer or on your Desktop. Choose your favourite hashing algorithms, including MD5 and SHA-256, with more coming soon.
+Finally, a modern hash-generating application built from the ground up for Windows 11. Quickly and easily calculate file hashes directly in Windows Explorer or on your Desktop. Choose your preferred hashing algorithms, including MD5 and SHA-256, with more coming soon.
 
-### Coming soon! App store certification in progress...
+### App store certification in progress...
 
