@@ -19,3 +19,7 @@ Finally, a modern hash-generating application built from the ground up for Windo
 
 ### 08/May/2025 - 1.1.47 - First release. Enjoy!
 
+### 13/May/2025 - 1.1.48 - Performance release! Managed to squeeze out a 50% perf improvement in some cases.
+
+### WIP/TBD     - 1.1.49 - SHA-512 hashing coming soon! 
+
