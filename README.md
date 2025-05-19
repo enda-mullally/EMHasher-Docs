@@ -5,7 +5,7 @@
   EM Hasher
 </h1>
 <p align="center">
-  Quickly calculate MD5 / SHA-256 checksums in Windows 11
+  Quickly calculate MD5/SHA-256/SHA-512 checksums in Windows 11
 </p>
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9NZZHH7X25CG" target="_blank">
@@ -15,7 +15,7 @@
 
 ### Overview
 
-Finally, a modern hash-generating application built from the ground up for Windows 11. Quickly and easily calculate file hashes directly in Windows Explorer or on your Desktop. Choose your preferred hashing algorithms, including MD5 and SHA-256, with more coming soon. What would you like to see next?
+Finally, a modern hash-generating application built from the ground up for Windows 11. Quickly and easily calculate file hashes directly in Windows Explorer or on your Desktop. Choose your preferred hashing algorithms, including MD5/SHA-256/SHA-512. What would you like to see next?
 
 ### 08/May/2025 - 1.1.47 - First release. Enjoy!
 
