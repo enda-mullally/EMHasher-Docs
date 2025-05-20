@@ -23,5 +23,5 @@ Finally, a modern hash-generating application built from the ground up for Windo
 
 ### 16/May/2025 - 1.1.49 - Added SHA-512 hashing.
 
-### WIP - Windows 11 context menu integration. Right click any file and quickly start hashing. Quickly, simply.  ### 
+### WIP - Windows 11 context menu integration. Right click any file and start hashing. Quick, simple.  ### 
 
