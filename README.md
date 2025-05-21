@@ -17,11 +17,11 @@
 
 Finally, a modern hash-generating application built from the ground up for Windows 11. Native and fast (AOT) X64|ARM64. Quickly and easily calculate file hashes directly in Windows Explorer or on your Desktop. Choose your preferred hashing algorithms, including MD5/SHA-256/SHA-512. What would you like to see next?
 
-### 08/May/2025 - 1.1.47 - First release. Enjoy! - Native (AOT) compiled app, targeting X64 and ARM64.
+## 08/May/2025 - 1.1.47 - First release. Enjoy! - Native (AOT) compiled app, targeting X64 and ARM64.
 
-### 13/May/2025 - 1.1.48 - Performance release! Managed to squeeze out a 50% perf improvement in some cases.
+## 13/May/2025 - 1.1.48 - Performance release! Managed to squeeze out a 50% perf improvement in some cases.
 
-### 16/May/2025 - 1.1.49 - Added SHA-512 hashing.
+## 16/May/2025 - 1.1.49 - Added SHA-512 hashing.
 
-### Coming soon! - Windows 11 context menu integration. Right click any file and start hashing. Quick, simple.  ### 
+## Coming soon! - Windows 11 context menu integration. Right click any file and start hashing. Quick, simple.  ## 
 
