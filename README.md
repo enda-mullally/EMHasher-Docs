@@ -27,6 +27,9 @@ v1.1.48 - Performance release! Managed to squeeze out a 50% perf improvement in 
 ### 16/May/2025
 v1.1.49 - Added SHA-512 hashing.
 
+### 5/Jun/2025
+v1.1.53 - Improvements and bug fixs!
+
 ### Coming soon!
 vNext   - Windows 11 context menu integration. Right click any file and start hashing. Quick, simple. 
 
