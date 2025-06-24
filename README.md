@@ -32,6 +32,9 @@ v1.1.53 - Improvements and bug fixs!
 ### 09/Jun/2025
 v1.1.54 - Added CRC-32 hashing.
 
+### 23/Jun/2025 ###
+v1.1.55 - Unlimited trial (with some features restricted).
+
 ### Coming soon!
-vNext   - Windows 11 context menu integration. Right click any file and start hashing. Quick, simple. 
+vNext   - Windows shell/explorer context menu integration. Right click any file and start hashing. Quick, simple.
 
