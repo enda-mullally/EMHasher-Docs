@@ -8,7 +8,11 @@
   Quickly calculate CRC-32/MD5/SHA-256/SHA-512 checksums in Windows 11
 </p>
 
-[![Get it from Microsoft](images/store-badge.png)](https://apps.microsoft.com/store/detail/9NZZHH7X25CG)
+<p align="center">
+  <a href="https://apps.microsoft.com/store/detail/9NZZHH7X25CG">
+    <img src="images/StoreBadge.png" width="200" alt="Store link" />
+  </a>
+</p>
 
 ## Overview
 
