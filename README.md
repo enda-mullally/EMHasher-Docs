@@ -8,11 +8,16 @@
   Quickly calculate CRC-32/MD5/SHA-256/SHA-512 checksums in Windows 11
 </p>
 
-<p align="center">
-  <a href="https://apps.microsoft.com/store/detail/9NZZHH7X25CG">
-    <img src="images/StoreBadge.png" width="200" alt="Store link" />
-  </a>
-</p>
+<script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
+<ms-store-badge
+	productid="9NZZHH7X25CG"
+	productname="EM Hasher"
+	window-mode="direct"
+	theme="auto"
+	size="large"
+	language="en-gb"
+	animation="on">
+</ms-store-badge>
 
 ## Overview
 
