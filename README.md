@@ -36,6 +36,9 @@ v1.1.54 - Added CRC-32 hashing.
 ### 23/Jun/2025 ###
 v1.1.55 - Unlimited trial (with some features restricted).
 
+### 10/Jul/2025 ###
+v1.1.56 - Added 'Copy hash to clipboard' button.
+
 ### Coming soon!
 vNext   - Windows shell/explorer context menu integration. Right click any file and start hashing. Quick, simple.
 
