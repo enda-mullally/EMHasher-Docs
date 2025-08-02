@@ -42,6 +42,9 @@ v1.1.56 - Added 'Copy hash to clipboard' button.
 ### 22/Jul/2025 ###
 v1.1.57 - UI improvements.
 
+### 03~06/Aug/2025 ###
+v1.1.58 (In store certification..) - Now free & unrestricted. Enjoy :-)
+
 ### Coming soon!
-vNext   - Windows shell/explorer context menu integration. Right click any file and start hashing. Quick, simple.
+v1.2.x - Windows shell/explorer context menu integration. Right click any file and start hashing. Quick, simple.
 
