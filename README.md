@@ -45,6 +45,3 @@ v1.1.57 - UI improvements.
 ### 04/Aug/2025 ###
 v1.1.58 - Now free & unrestricted. Enjoy :-)
 
-### Coming soon!
-v1.2.x - Windows shell/explorer context menu integration. Right click any file and start hashing. Quick, simple.
-
