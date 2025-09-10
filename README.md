@@ -45,3 +45,6 @@ v1.1.57 - UI improvements.
 ### 04/Aug/2025 ###
 v1.1.58 - Now free & unrestricted. Enjoy :-)
 
+### 08/Sep/2025 ###
+v1.1.59 - Added third party license notice(s) -> About section.
+
