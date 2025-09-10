@@ -18,9 +18,9 @@
 
 EM Hasher is a modern, simple & free hash-generating application built from the ground up for Windows 11. Native and fast (AOT) X64|ARM64. Quickly and easily calculate file hashes directly in Windows Explorer or on your Desktop. Choose your preferred hashing algorithms, including CRC-32/MD5/SHA-256/SHA-512. What would you like to see next?
 
-##
+## Coming soon!
 
-Coming soon! - Hash validation/verification and support for opening files like .md5, .sha256 to quickly verify the hashes of downloaded files.
+Hash verification and support for launching EM Hasher directly in Verify mode via '.md5', '.sha256' files etc; Quickly verify the hashes of single or multiple files with a single click.
 
 <br />
 
